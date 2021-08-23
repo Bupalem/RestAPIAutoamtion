@@ -1,0 +1,19 @@
+# ignore the following
+/.metadata/
+/.settings/
+/.vs/
+
+/test-output/
+/target/
+
+*.stackdump
+*.class
+*.jar
+*.logs
+*.iml
+.idea/
+.eclipse
+.project
+.classpath
+/bin/
+/reports/
